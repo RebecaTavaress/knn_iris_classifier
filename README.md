@@ -1,7 +1,7 @@
 # knn_iris_classifier
 Implementar um classificador KNN utilizando o dataset Iris e analisar métricas de desempenho utilizando diferentes valores de k.
 
-KNN(K_Nearest Neighbors)
+KNN(K_Nearest Neighbors):
 O KNN é um algoritmo de classificação baseado em proximidade.
 
 Funcionamento:
