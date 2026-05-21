@@ -25,9 +25,7 @@ Acurácia = Acertos/Total
 
 A precisão mede quantas previsões positivas estavam corretas.
 
-\[
-Precisão = \frac{VP}{VP + FP}
-\]
+Precisão = VP / VP + FP
 
 Onde:
 - VP = Verdadeiros Positivos
@@ -37,9 +35,7 @@ Onde:
 
 O recall mede quantos casos positivos reais foram encontrados pelo modelo.
 
-\[
-Recall = \frac{VP}{VP + FN}
-\]
+Recall = VP / VP + FN
 
 Onde:
 - FN = Falsos Negativos
@@ -48,9 +44,7 @@ Onde:
 
 O F1-score combina precisão e recall em uma única métrica.
 
-\[
-F1 = 2 \cdot \frac{Precisão \cdot Recall}{Precisão + Recall}
-\]
+F1 = 2 * ((Precisão * Recall) / (Precisão + Recall))
 
 Quanto mais próximo de 1, melhor o desempenho do modelo.
 
