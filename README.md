@@ -25,7 +25,7 @@ Acurácia = Acertos/Total
 
 A precisão mede quantas previsões positivas estavam corretas.
 
-Precisão = VP / VP + FP
+Precisão = VP / (VP + FP)
 
 Onde:
 - VP = Verdadeiros Positivos
@@ -35,7 +35,7 @@ Onde:
 
 O recall mede quantos casos positivos reais foram encontrados pelo modelo.
 
-Recall = VP / VP + FN
+Recall = VP / (VP + FN)
 
 Onde:
 - FN = Falsos Negativos
