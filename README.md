@@ -12,7 +12,19 @@ Funcionamento:
 
 Exemplo:
 
-K = 3
+K = 3 
 O algoritmo analisa os 3 vizinhos mais próximos.
 A classe mais comum entre eles será a classificação final.
+
+Acurácia
+
+A acurácia mede a porcentagem total de acertos do modelo.
+
+Fórmula:
+
+Acurácia= Acertos/Total
+
+Quanto maior a acurácia, melhor o desempenho geral.
+
+
 
