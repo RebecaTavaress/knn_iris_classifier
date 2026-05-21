@@ -1,7 +1,7 @@
 # knn_iris_classifier
 Implementar um classificador KNN utilizando o dataset Iris e analisar métricas de desempenho utilizando diferentes valores de k.
 
-🤖 KNN (K-Nearest Neighbors)
+## 🤖 KNN (K-Nearest Neighbors)
 
 O KNN é um algoritmo de classificação baseado em proximidade.
 
@@ -19,9 +19,7 @@ Exemplo:
 
 A acurácia mede a porcentagem total de acertos do modelo.
 
-\[
-Acurácia = \frac{Acertos}{Total}
-\]
+Acurácia = Acertos/Total
 
 ## Precisão (Precision)
 
